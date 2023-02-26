@@ -7,7 +7,14 @@ h1 {
   text-align: center;
   color: rgb(0, 0, 0);
   background-color: rgb(255, 166, 0);
+  font-size: 40px;
+}
 
+h2 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgba(117, 80, 10, 0.397);
+  font-size: 30px;
 }
 
 iframe {
@@ -26,4 +33,20 @@ img {
   margin: 0;
   padding: 0;
   width: 100%;
+}
+
+.episodes {
+  margin-top: 500px;
+  font-size: 0px;
+  text-align: center;
+}
+
+.single-ep {
+  margin-top: 50px;
+}
+
+p {
+  font-size: 30px;
+  margin: 0;
+
 }
